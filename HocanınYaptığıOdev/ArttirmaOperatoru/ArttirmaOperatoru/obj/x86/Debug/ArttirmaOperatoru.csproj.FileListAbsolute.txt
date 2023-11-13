@@ -1,0 +1,28 @@
+C:\Users\ogr\Desktop\ArttirmaOperatoru\ArttirmaOperatoru\bin\Debug\ArttirmaOperatoru.exe
+C:\Users\ogr\Desktop\ArttirmaOperatoru\ArttirmaOperatoru\bin\Debug\ArttirmaOperatoru.pdb
+C:\Users\ogr\Desktop\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.Form1.resources
+C:\Users\ogr\Desktop\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.Properties.Resources.resources
+C:\Users\ogr\Desktop\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.exe
+C:\Users\ogr\Desktop\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.pdb
+C:\Users\ogr\Desktop\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\5.GÜN\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\5.GÜN\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\bin\Debug\ArttirmaOperatoru.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\5.GÜN\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\bin\Debug\ArttirmaOperatoru.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\5.GÜN\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\5.GÜN\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.Form1.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\5.GÜN\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\5.GÜN\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\5.GÜN\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\5.GÜN\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\5.GÜN------\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\5.GÜN------\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\5.GÜN------\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\bin\Debug\ArttirmaOperatoru.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\5.GÜN------\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\bin\Debug\ArttirmaOperatoru.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\5.GÜN------\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\5.GÜN------\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\5.GÜN------\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\5.GÜN------\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\5.GÜN------\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\5.GÜN\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\5.GÜN\HocanınYaptığıOdev\ArttirmaOperatoru\ArttirmaOperatoru\obj\x86\Debug\ArttirmaOperatoru.pdb

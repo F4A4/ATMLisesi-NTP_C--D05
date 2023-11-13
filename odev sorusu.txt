@@ -1,0 +1,4 @@
+1)Her ders için ortalama hesapla
+2)Genel ortalama hesapla
+3)try-catch hata kontrolü
+4)sadece dolu textbox larýn ortalamaya dahil edilmesi
